@@ -1,0 +1,9 @@
+Das ist eine Eingabedatei. Die mußt du nicht lesen.
+
+Die Datei ist nur hier, weil sie von einem Programm gelesen weden soll.
+
+Mal sehen, wie das mit den Umlauten klappt: ä, ö, ü, ß, Ä, Ö,Ü.
+
+Und die Zeilenumbrüche würden mich auch interessieren.
+Sind sie da?
+
